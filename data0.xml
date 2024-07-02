@@ -1,0 +1,30 @@
+<Ads formatVersion="3" target="Avito.ru">
+    <Ad>
+        <id>1</id>
+        <name>Daniil</name>
+        <cost>1000</cost>
+        <duration>60sec</duration>
+        <phone number>799999</phone number>
+    </Ad>
+    <Ad>
+        <id>2</id>
+        <name>Alexander</name>
+        <cost>2000</cost>
+        <duration>70sec</duration>
+        <phone number>70012332</phone number>
+    </Ad>
+    <Ad>
+        <id>3</id>
+        <name>Artem</name>
+        <cost>3000</cost>
+        <duration>80sec</duration>
+        <phone number>7132123</phone number>
+    </Ad>
+    <Ad>
+        <id>4</id>
+        <name>Genadiy</name>
+        <cost>4000</cost>
+        <duration>90sec</duration>
+        <phone number>7123123213</phone number>
+    </Ad>
+</Ads>

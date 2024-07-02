@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "avito-427514",
+  "private_key_id": "0c8a8791741f0766175ece87e05264a81a5541d6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDLpjgIvBjCRUQ2\n9u6nlP+Mm7Tx0PSp8LITmJ7Zygh3UzFQUX+65/7FWogWnobS/wm/Hw+t8Ub2tFQz\nZG9ovD5iJD/I2lQZyN4qXf+UFHycfL02p/fddApHJIIY/T0Niu4oO9gLZkfwM2mT\nDuLt9ZtFMkC7eOBTyWVwnn3EVCgfCZ5Ys2ECXlJnOVKZUjXRg1yLqsi3iKl6TRUW\nHzMtZD1bmge9RQWO/Gd9F3C6Y92wrIdEu0UU/L0mgttIIGlxAKHKb8XTl2x53m7I\nstyV8Q9xFewZdk7znEkGzVZqhiRkVIYw7RpgGd+x3ROVGrnK9qDtmC1m96fwbJu/\nQOOb2v+DAgMBAAECggEAOCIugtXaGz59gYsKGH48/HR06Uy4C9mxNC6W5qBGOiHf\nz2xPgWTuOFbueRGkRyeOd7RnnYIKlfj51pqiDOQKbAHi5QmtMdhIyLPVPWtyN644\nd4bQDyYrqRV6mMnA2OlJISTxtZ6xSJfbS3JIgd/3txiVeDdm2iGCyQqezw2Fa5w8\nql8tYM4LFwAFxZrClmI1tSLJjC2uU8mjufM8Q9drbS1q1G7BJlHJhKt+T5Tcoa8Q\nn8e9qvBqARAHSYlA/q2omgxPF/4+mgFjxXrql1LZheCZwX2nxnPTMiu2G8IBnJq4\nC36usup3kzMfwGr6BFNWUTKE4aOTFCCDxtCllb0+lQKBgQDscutPK8q4aoD4vb3D\ntc8pRqkBAAQSNMpJLrz1gDdmAd/lwpHYixacxcaowqLJefsEOpl3BKY1s6kWXnSn\n9bHECSvxxmYAZdW8hGeyJT67vfX48/WLE9GZiXqDOFr3f0qGKuoj5jjssRgSMVcV\nI2tM1mD08mzN2E5gtrAxnz4TDwKBgQDcfQHX1bEktCdWf08lCOiKi+vBT9YgT0+a\nGqgU8lfluA3tqRQLJsniLXEB22isq1tlDhSpYrVWO0biY3IOa1zvO4Qi5avToByY\noeoiBqx9kOYmUXptPh2NCCCE/cZ0JanJvmvbaEERMWHBpV4ggjKOef4zW740xj+T\nzkd3O8x8TQKBgAqIB9EL60iRfdMWaGhaJbL58bcYsBW7gjMGQOZSYqVJehZ6txJF\nB6nN6U5E9QkyRKrojUNO0rRbnzFe3aVJfTR1EB8BrjNgVcfCwfeeTw//owAGpa4f\nINvM0scbcHnLkp8tNCaLL4fjT2YoCm/nlvTiK4ldbtkwRDVsjaZ4KESjAoGBANr+\nmocKq1B+UxgZiL2LFJUPlpDBwDcFL1YrpchwUBdNcSAdsFfHJfutELI8f8IIzNUZ\nYDJBZUUJyUTwawehYYQIBB05KyodvGlpYIh9QnPRKJbklInOiUFb0hjlimgwRGyp\n4qzg5sex2ZuhqVT2nEphJrdSJyB5zAn9d4QY8+h9AoGAGokDRw/qc+Sgzv/9HHYz\nCC2qn5N5wccFuh59CwewrQu4AGdBF9fdoWKgP4+OdCJjG7P+M5Oa/8jpW5eysHX+\njrsp2vIUWrncmUab5QD7RV/TEGGlXvqNCgm0zrzSOjIu5MyzPq5oBgKrgIGnajId\naat59p7FdEiobgBmPqWKRJI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "avitoacc@avito-427514.iam.gserviceaccount.com",
+  "client_id": "100929914161008503441",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/avitoacc%40avito-427514.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
