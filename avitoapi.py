@@ -33,6 +33,7 @@ def get_avance(client_id, client_secret):
         'Authorization': f'Bearer {access_token}'
     }
     response = requests.post(balance_url, headers=headers, json={})  
+    print(response.json())
     if response.status_code == 200:
         balance_data = response.json()
         return balance_data['result']['balance']//100
