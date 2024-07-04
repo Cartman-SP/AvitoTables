@@ -89,7 +89,10 @@ for worksheet in worksheets[2:]:
         cell_updates.append(Cell(i['row'], 24, i['uniqContacts']))
         cell_updates.append(Cell(i['row'], 25, i['status']))
     # Добавляем отступы
-    worksheet.update_cells(cell_updates)
+    try:
+        worksheet.update_cells(cell_updates)
+    except:
+        pass
     indent(root)
 
     # Создаем объект дерева XML
