@@ -24,6 +24,7 @@ def get_user_id(client_id,client_secret):
         'Authorization': f'Bearer {access_token}'
     }
     response = requests.get(info_url, headers=headers)
+    print(response.json())
     return response.json()['id']
 
 def get_avance(client_id, client_secret):
