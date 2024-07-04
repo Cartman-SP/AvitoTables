@@ -111,8 +111,10 @@ def get_avito_ids(client_id, client_secret,cells):
         'query': ids
     }
     response = requests.get(info_url, headers=headers, params=params)
-
-    data = response.json()['items']
+    try:
+        data = response.json()['items']
+    except:
+        return []
     data2 = cells['items']
     data3 = merge_arrays(data2,data)
     user_id = get_user_id(client_id,client_secret)
@@ -152,6 +154,7 @@ def get_balance(client_id, client_secret):
         'X-Source': 'Tester'
     }
     response = requests.get(balance_url, headers=headers)
+    print(response.json())
     if response.status_code == 200:
         balance_data = response.json()
         return balance_data

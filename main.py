@@ -36,7 +36,7 @@ def indent(elem, level=0):
 
 # Проходимся по всем листам
 for worksheet in worksheets[2:]:
-    # Считываем все данные с листа
+    
     data = worksheet.get_all_values()
 
     client_id = data[0][0]
